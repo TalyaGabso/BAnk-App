@@ -1,0 +1,11 @@
+.vscode
+node_modules
+dist
+*.log
+yarn.lock
+README.md
+.idea
+.babelrc
+.travis.yml
+webpack.config.js
+.eslintrc.json
